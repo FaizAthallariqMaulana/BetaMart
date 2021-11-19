@@ -1,0 +1,10 @@
+D:\XIIRPL2\BetaMart_FaizAM\BetaMart_FaizAM\bin\Debug\BetaMart_FaizAM.exe.config
+D:\XIIRPL2\BetaMart_FaizAM\BetaMart_FaizAM\bin\Debug\BetaMart_FaizAM.exe
+D:\XIIRPL2\BetaMart_FaizAM\BetaMart_FaizAM\bin\Debug\BetaMart_FaizAM.pdb
+D:\XIIRPL2\BetaMart_FaizAM\BetaMart_FaizAM\obj\Debug\BetaMart_FaizAM.csprojAssemblyReference.cache
+D:\XIIRPL2\BetaMart_FaizAM\BetaMart_FaizAM\obj\Debug\BetaMart_FaizAM.Form1.resources
+D:\XIIRPL2\BetaMart_FaizAM\BetaMart_FaizAM\obj\Debug\BetaMart_FaizAM.Properties.Resources.resources
+D:\XIIRPL2\BetaMart_FaizAM\BetaMart_FaizAM\obj\Debug\BetaMart_FaizAM.csproj.GenerateResource.cache
+D:\XIIRPL2\BetaMart_FaizAM\BetaMart_FaizAM\obj\Debug\BetaMart_FaizAM.csproj.CoreCompileInputs.cache
+D:\XIIRPL2\BetaMart_FaizAM\BetaMart_FaizAM\obj\Debug\BetaMart_FaizAM.exe
+D:\XIIRPL2\BetaMart_FaizAM\BetaMart_FaizAM\obj\Debug\BetaMart_FaizAM.pdb
